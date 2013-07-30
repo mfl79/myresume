@@ -1,0 +1,44 @@
+Mateusz Latawski
+mlatawski@gmail.com
+mobile: 07445253256
+twitter: @mateuszlatawski
+github: https://github.com/mfl79
+website: www.crevolution.co.uk
+Haverhill, Suffolk England
+
+Skills:
+  Programming: jQuery, Coffee Script, Angular.js, PHP
+  Web/networking: HTML/CSS, HTML5/CSS3, WordPress CMS
+  Database: MySQL
+
+
+Experience:
+  Front End Developer / Owner
+  Creative Revolution - Web Design LTD
+  January 2013 - present
+  Haverhill, UK
+    - design web pages, sites and applications
+    - develops and monitors strategies for ensuring the long-term financial viability of the organization
+    - manage advertising opportunities in other theatre program, press and at venues
+    - oversees design, delivery, and quality of programs and services
+
+  Freelancer Web Developer
+  DW LTD
+  september 2012 - present
+  Devon, UK
+    - design web pages and sites
+
+  Freelancer Web Developer
+  mfldesigner.com
+  February 2010 - January 2013
+  Cambridge, UK
+    - design web pages, sites and applications
+
+  
+Education
+  The Academy of Management and Administration in Opole, Poland
+  Bachelor degree in Political Science 2005
+
+  College of Management in Tourism 
+  Nysa, Poland
+  2000-2002
