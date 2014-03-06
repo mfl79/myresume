@@ -7,13 +7,13 @@ website: www.crevolution.co.uk
 Haverhill, Suffolk England
 
 Skills:
-  Programming: jQuery, Coffee Script, Angular.js, PHP
-  Web/networking: HTML/CSS, HTML5/CSS3, WordPress CMS
+  Programming: jQuery,HTML/CSS, HTML5/CSS3, Angular.js, PHP, jQuery Mobile
+  Web/networking: Git, WordPress CMS, ModX CMS
   Database: MySQL
 
 
 Experience:
-  Front End Developer / Owner
+  Front End Developer / Founder and CEO
   Creative Revolution - Web Design LTD
   January 2013 - present
   Haverhill, UK
@@ -22,17 +22,6 @@ Experience:
     - manage advertising opportunities in other theatre program, press and at venues
     - oversees design, delivery, and quality of programs and services
 
-  Freelancer Web Developer
-  DW LTD
-  september 2012 - present
-  Devon, UK
-    - design web pages and sites
-
-  Freelancer Web Developer
-  mfldesigner.com
-  February 2010 - January 2013
-  Cambridge, UK
-    - design web pages, sites and applications
 
   
 Education
